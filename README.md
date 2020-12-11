@@ -40,10 +40,10 @@ Negative sNAO Phase: 	above average Precipitation, 	below average Temperature
 - Center of action over the Mediterranean stronger in EKF400 dataset than Folland et al. 
 - The results are supported by case study of London temperature and precipitation anomalies in extreme sNAO summers (e.g. 1783, 1955).
 
-_We would like to thank Prof. Dr. Stefan Brönnimann for his assistance with the R-scripts as well access to the EKF400 dataset._
-
 ### References:
 1. Barnston, A. G., Livezey, R. E. 1987. Classification, Seasonality and Persistence of Low-Frequency Atmospheric Circulation Patterns. Monthly Weather Review. 115(6). 1083-1126.
 2. Folland, C. K., Knight, J., Linderholm, H. W., Fereday, D., Ineson, S., Hurrell, J. W. 2009. The Summer North Atlantic Oscillation: Past, Present, and Future. Journal of Climate. 22(5). 1082-1103.
 3. Jones, P. D., Jonsson, T., Wheeler, D. 1997. Extension to the North Atlantic Oscillation Using Early Instrumental Pressure Observations from Gibraltar and South-West Iceland. International Journal of Climatology. 17. 1433-1450.
 4. Franke, J., Brönnimann, S., Bhend, J., Brugnara, Y. 2017. A monthly global paleo-reanalysis of the atmosphere from 1600 to 2005 for studying past climatic variations. Scientific Data. (4)170076. 1-19.
+
+_We would like to thank Prof. Dr. Stefan Brönnimann for his assistance with the R-scripts as well access to the EKF400 dataset._
